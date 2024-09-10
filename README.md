@@ -15,4 +15,5 @@ Child processes são processos que são criados por um processo pai. Em Node.js,
 ### Após criar a tabela, rode o comando para inserir no banco
 - `npm run dev`
 
-![image](https://github.com/user-attachments/assets/13fed6bc-2d32-4055-a158-412466b51199)
+
+![Uploading Captura de tela de 2024-09-10 16-34-43.png…]()
