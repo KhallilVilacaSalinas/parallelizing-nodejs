@@ -3,10 +3,10 @@ const { Client } = pg;
 
 async function getPostgresConnection() {
     const client = new Client({
-        user: 'erickwendel',
+        user: 'root',
         host: 'localhost',
         database: 'school',
-        password: 'mypassword',
+        password: 'root',
         port: 5432,
     });
 
